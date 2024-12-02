@@ -27,7 +27,7 @@ Our Vision:
 We envision a world where AI is not confined to experts or large organizations but is accessible to anyone with a need or an idea. NEURHAL aims to be the bridge between complex AI systems and everyday users, empowering individuals and businesses alike.
 
 Current Status:
-NEURHAL is in its early stages, with a GitHub account established at GitHub.com/Neurhal. While there is no codebase or documentation yet, the foundation is being set for a system that will redefine AI accessibility and self-management.
+NEURHAL is in its early stages, with the foundation being set for a system that will redefine AI accessibility and self-management.
 
 How You Can Get Involved:
 NEURHAL is an open invitation to collaborate and innovate:
