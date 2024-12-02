@@ -2,7 +2,6 @@ NEURHAL Neural Network Accelerator is a groundbreaking project designed to revol
 
 NEURHAL is built to democratize AI by making it accessible, intelligent, and autonomous. It combines cutting-edge voice interaction, advanced neural network training capabilities, and self-management features into one seamless platform.
 
-Our Mission
 At NEURHAL, our mission is to break down the barriers that limit AI accessibility. 
 
 We aim to create an intelligent, self-managing system that empowers users to focus on innovation rather than infrastructure, unlocking AI's full potential for everyone.
