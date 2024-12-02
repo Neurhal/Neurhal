@@ -8,28 +8,28 @@ We aim to create an intelligent, self-managing system that empowers users to foc
 
 What Makes NEURHAL Unique?
 
-Voice-Enabled Interaction
+Voice-Enabled Interaction:
 Users interact with NEURHAL through a natural language interface, making AI intuitive and easy to use.
 
-Self-Management
+Self-Management:
 NEURHAL autonomously handles its own training, backups, and security hardening, eliminating the need for manual intervention.
 
-Shared Training
+Shared Training:
 NEURHAL optimizes its performance by leveraging shared datasets and collaborative learning.
 
-Permanence and Accuracy
+Permanence and Accuracy:
 NEURHAL retains discussion histories and applies corrective mechanisms to prevent misinformation and maintain reliable outputs.
 
-Autonomous Security
+Autonomous Security:
 Built-in penetration testing and hardening processes ensure the system remains robust and secure.
 
-Our Vision
+Our Vision:
 We envision a world where AI is not confined to experts or large organizations but is accessible to anyone with a need or an idea. NEURHAL aims to be the bridge between complex AI systems and everyday users, empowering individuals and businesses alike.
 
-Current Status
+Current Status:
 NEURHAL is in its early stages, with a GitHub account established at GitHub.com/Neurhal. While there is no codebase or documentation yet, the foundation is being set for a system that will redefine AI accessibility and self-management.
 
-How You Can Get Involved
+How You Can Get Involved:
 NEURHAL is an open invitation to collaborate and innovate:
 
 Follow our progress at GitHub.com/Neurhal.
