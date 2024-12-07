@@ -1,4 +1,4 @@
-NEURHAL,the Neural Network Accelerator is a groundbreaking project designed to revolutionize how we interact with and develop artificial intelligence (AI). 
+*NEURHAL,the Neural Network Accelerator* is a groundbreaking project designed to revolutionize how we interact with and develop artificial intelligence (AI). 
 
 NEURHAL is built to democratize AI by making it accessible, intelligent, and autonomous. It combines cutting-edge voice interaction, advanced neural network training capabilities, and self-management features into one seamless platform.
 
