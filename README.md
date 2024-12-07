@@ -8,13 +8,13 @@ We aim to create an intelligent, self-managing system that empowers users to foc
 
 What Makes NEURHAL Unique?
 
-Voice-Enabled Interaction:
-Users interact with NEURHAL through a natural language interface, making AI intuitive and easy to use.
+_Voice-Enabled Interaction:_
+- Users interact with NEURHAL through a natural language interface, making AI intuitive and easy to use.
 
-Self-Management:
-NEURHAL autonomously handles its own training, backups, and security hardening, eliminating the need for manual intervention.
+_Self-Management:_
+- NEURHAL autonomously handles its own training, backups, and security hardening, eliminating the need for manual intervention.
 
-Shared Training:
+_Shared Training:_
 NEURHAL optimizes its performance by leveraging shared datasets and collaborative learning.
 
 Permanence and Accuracy:
