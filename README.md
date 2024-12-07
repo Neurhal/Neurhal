@@ -30,11 +30,8 @@ _Current Status:_
 - NEURHAL is in its early stages, with the foundation being set for a system that will redefine AI accessibility and self-management.
 
 _How You Can Get Involved:_
-- NEURHAL is an open invitation to collaborate and innovate:
-
-- Follow our progress at GitHub.com/Neurhal.
-
-- Share ideas, feedback, and suggestions to help shape NEURHAL’s development.
+NEURHAL is an open invitation to collaborate and innovate:
+-Share ideas, feedback, and suggestions to help shape NEURHAL’s development.
 - Stay tuned for updates as we build a robust and inclusive AI ecosystem.
 
 
